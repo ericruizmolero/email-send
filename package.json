@@ -1,0 +1,5 @@
+{
+  "name": "pdf-mailer",
+  "private": true,
+  "type": "module"
+}
