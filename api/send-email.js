@@ -4,6 +4,8 @@ const ALLOWED_ORIGINS = [
   'https://mik-mondragon.webflow.io',   // tu Webflow actual
   // añade aquí tu dominio final si luego publicas en uno propio:
   // 'https://www.tudominio.com',
+  'https://gsbindex.com/',
+  'http://127.0.0.1:5500/',
   'http://localhost:3000'
 ];
 
